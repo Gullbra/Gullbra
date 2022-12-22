@@ -55,6 +55,11 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
       alt="nodejs" title="Node JS" width="40" height="40"/> 
   </a>
+  <a href="https://expressjs.com" target="_blank"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+      alt="express js" title="Express JS" width="40" height="40"/> 
+  </a>
   <a href="https://mochajs.org" target="_blank"> 
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" 
@@ -79,6 +84,21 @@ Here are some ideas to get you started:
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" 
       alt="next" title="Next JS" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/company/" target="_blank"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+      alt="docker" title="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/about/" target="_blank"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+      alt="postgreSQL" title="PostgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/home" target="_blank"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+      alt="mongoDB" title="MongoDB" width="40" height="40"/> 
   </a>
 </p>
 
