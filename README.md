@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gullbra/Gullbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,49 +13,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>
-  Languages:
-</h4>
+### Hi there 👋
+
+### TechStack
+
+#### Main Languages
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+      src="https://skillicons.dev/icons?i=html" 
       alt="html5" title="HTML5" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank">  
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+      src="https://skillicons.dev/icons?i=css" 
       alt="css3" title="CSS 3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+      src="https://skillicons.dev/icons?i=js" 
       alt="javascript" title="JavaScript" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://skillicons.dev/icons?i=ts"
       alt="typescript" title="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://skillicons.dev/icons?i=python"
       alt="python" title="Python" width="40" height="40"/>
   </a>
 </p>
 
-<h4>
-  Tools and frameworks:
-</h4>
+#### Tools and Frameworks
 <p align="left">
   <a href="https://nodejs.org/about/" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+      src="https://skillicons.dev/icons?i=nodejs" 
       alt="nodejs" title="Node JS" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+      src="https://skillicons.dev/icons?i=express" 
       alt="express js" title="Express JS" width="40" height="40"/> 
   </a>
   <a href="https://mochajs.org" target="_blank"> 
@@ -67,51 +65,74 @@ Here are some ideas to get you started:
   </a>
   <a href="https://https://jestjs.io" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" 
+      src="https://skillicons.dev/icons?i=jest" 
       alt="jest" title="Jest" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+      src="https://skillicons.dev/icons?i=react" 
       alt="react" title="React JS" width="40" height="40"/> 
   </a>
   <a href="https://redux.js.org" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+      src="https://skillicons.dev/icons?i=redux" 
       alt="redux" title="Redux JS" width="40" height="40"/> 
   </a>
   <a href="https://nextjs.org" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" 
+      src="https://skillicons.dev/icons?i=next" 
       alt="next" title="Next JS" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/company/" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+      src="https://skillicons.dev/icons?i=docker" 
       alt="docker" title="Docker" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/about/" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+      src="https://skillicons.dev/icons?i=postgres" 
       alt="postgreSQL" title="PostgreSQL" width="40" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/home" target="_blank"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+      src="https://skillicons.dev/icons?i=mongodb" 
       alt="mongoDB" title="MongoDB" width="40" height="40"/> 
   </a>
 </p>
 
+### More About Me
 
-<!-- generated from https://github.com/anuraghazra/github-readme-stats -->
-<div style="text-align: center">
-  <img 
-     style="display: inline" height="160rem" 
-     src="https://github-readme-stats.vercel.app/api?username=gullbra&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-   />
+```javascript
+class Person {/* ...constructor of life... */}
+const Martin = new Person(...argsOfLife)
+
+console.log( Martin ) // output =>
+```
+
+```javascript
+Person {
+  interests: ['music', 'physics', 'economics', 'learing new stuff', '🍺', '💻'],
   
-  <img 
-     style="display: inline" height="160rem" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullbra&layout=compact&langs_count=16&theme=default"
-   />
-</div>
+  fluentSpeakerOf: ['swedish', 'english', 'spanish'],
+  
+  education: {
+    salt: {
+      bootcamp: 'JavaScript full-stack',
+      duration: 'Autum 2022'
+    },
+    his: {
+      course: 'introduction to cybersecurity',
+      duration: 'summer 2021'
+    },
+    kth: {
+      program: 'environmental engineering',
+      duration: '3 years'
+    },
+    su: {
+      program: 'business economics',
+      duration: '2 years'
+    },
+  },
+  /* ... */
+}
+```
