@@ -35,8 +35,11 @@ I also love writting readable, stable and mantainable code in the backend. I'm f
 </p>
 
 ### TechStack
-
+  
 #### Main Languages
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullbra&layout=compact" align="right"/>
+  
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img 
