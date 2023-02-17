@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 I'm a passionate, curious and logical full-stack JavaScript developer, with an academical background in physics, maths and economics.
 </p>
 <p align="center">
-I have a strong drive to create value with my work; creating, improving or maintaining things that makes the lives of people better, companies more efficient and/or makes a positive impact on society.
+I have a strong drive to create value with my work; creating, improving or maintaining things that makes the lives of people better, companies more efficient and makes a positive impact on society.
 </p>
 <p align="center">
-I know how important good, intuitive UX/UI design is, and I enjoy figuring out how to make applications and webpages easy and intuitive to use, whithout sacrificing functionality.
+I know how important good, intuitive UX/UI design is, and I enjoy figuring out how to make applications and webpages easy and intuitive to use, without sacrificing functionality.
 </p>
 <p align="center">
-I also love writting readable, stable and mantainable code in the backend. I'm full-stack for a reason.
+I also love writing readable, stable and maintainable code in the backend. I'm full-stack for a reason.
 </p>
   
 <p align="center">
